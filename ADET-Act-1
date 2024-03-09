@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Circles with Image and Title</title>
+    <link rel="stylesheet" href="format.css">
+</head>
+<body>
+    <div class="container">
+        <div class="circle">
+            <img src="https://dogtime.com/wp-content/uploads/sites/12/2023/11/GettyImages-1454565264-e1701120522406.jpg?w=1024" 
+            <h3 class="title">Doge 1</h3>
+        </div>
+        <div class="circle">
+            <img src="https://dogtime.com/wp-content/uploads/sites/12/2011/01/GettyImages-653001154-e1691965000531.jpg?w=1024" 
+            <h3 class="title">Doge 2</h3>
+        </div>
+        <div class="circle">
+            <img src="https://dogtime.com/wp-content/uploads/sites/12/2023/09/GettyImages-164855910-1-e1694532950609.jpg"
+            <h3 class="title">Doge 3 </h3>
+        </div>
+        <div class="circle">
+            <img src="https://dogtime.com/wp-content/uploads/sites/12/2011/01/GettyImages-140388410-e1692223356634.jpg?w=1024" 
+            <h3 class="title">Doge 4</h3>
+        </div>
+    </div>
+</body>
+</html>
